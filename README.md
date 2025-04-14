@@ -1,1 +1,2 @@
-Hi just my first project repo.<br> thnx
+Hi just my first project repo.<br> thnx you
+
